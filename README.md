@@ -21,7 +21,7 @@ Each lab documents what I built, the commands I used (Portal, Azure CLI, and Pow
 | 01 | Manage Microsoft Entra ID identities | Entra ID, users, groups | ⬜ |
 | 02a | Manage subscriptions and RBAC | Management groups, RBAC, custom roles | ⬜ |
 | 02b | Manage governance with Azure Policy | Azure Policy, tags, resource locks | ⬜ |
-| 03 | [Manage resources with ARM templates](https://github.com/Yonathan-Zaed/az-104-labs/tree/main/lab-03-arm-bicep) | ARM, Bicep, Cloud Shell | ✅ |
+| 03 | [Manage resources with ARM templates](labs/03-arm-bicep/) | ARM, Bicep, Cloud Shell | ✅ |
 
 ### 🌐 Virtual Networking
 | # | Lab | Key services | Status |
