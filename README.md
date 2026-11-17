@@ -18,7 +18,7 @@ Each lab documents what I built, the commands I used (Portal, Azure CLI, and Pow
 ### 🔐 Identity & Governance
 | # | Lab | Key services | Status |
 |---|---|---|---|
-| 01 | Manage Microsoft Entra ID identities | Entra ID, users, groups | ⬜ |
+| 01 | [Manage Microsoft Entra ID identities](labs/01-entra-id-identities/) | Entra ID, users, groups | ✅ |
 | 02a | Manage subscriptions and RBAC | Management groups, RBAC, custom roles | ⬜ |
 | 02b | Manage governance with Azure Policy | Azure Policy, tags, resource locks | ⬜ |
 | 03 | [Manage resources with ARM templates](labs/03-arm-bicep/) | ARM, Bicep, Cloud Shell | ✅ |
